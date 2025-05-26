@@ -14,20 +14,6 @@ This project analyzes traffic accident data in New York City for the year 2020. 
 
 ---
 
-## Project Structure
-
-```
-NYC-Traffic-Accidents-Analysis/
-├── NYC Traffic Accidents Analysis (2020).pdf # Project report
-├── data/
-│ └── raw/
-│ └── NYC_Accidents_2020.csv # Main dataset
-└── src/
-└── NYC Traffic Accidents Analysis 2020.ipynb # Jupyter notebook with code and analysis
-```
-
----
-
 ## Dataset
 
 **Source**: [NYC Motor Vehicle Collisions Dataset on NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
